@@ -9,7 +9,7 @@ I'm a third year engineering student at ESPRIT and a passionate data scientist w
 
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
-- 🌱 I’m currently learning **Reinforcement learning and MARL**.
+- 🌱 I’m currently learning **Advanced deep learning, Reinforcement Learning and MLOps**.
 
 - 💻 All of my projects are available at [my github repo](https://github.com/MarwenSAIDI?tab=repositories).
 
@@ -54,7 +54,7 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch) 
 ![TensorFlow](https://img.shields.io/badge/-TF-000?style=for-the-badge&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=Keras) 
-![JAX](https://img.shields.io/badge/-jax-000?style=for-the-badge&logo=jax)
+![JAX](https://img.shields.io/badge/-JAX-000?style=for-the-badge&logo=JAX)
 
 #### Deployment
 ![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache) 
