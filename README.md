@@ -12,16 +12,6 @@ I'm a third year engineering student at ESPRIT and a passionate data scientist w
 - 💻 All of my projects are available at [my github repo](https://github.com/MarwenSAIDI?tab=repositories).
 
 
-
-### Data Education
-
-<!-- <img src="https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png" alt="drawing" align="left" width="150"/> -->
-
-- I made a course about [data science and business analytics in Python](https://dramsch.net/course1) on [Skillshare](https://dramsch.net/r/skillshare). 
-- If you're just interested in the [higher level understanding of data science](https://dramsch.net/course2), that's also okay and I made a course about it. 
-- More into applied stuff? I made a course trying out [different ML models on financial data like stocks and crypto](https://dramsch.net/course3). 
-- And since we do eventually all want to get a job, I made a small course about [crafting a top-tier CV or Resumé for data science jobs](https://dramsch.net/course4).
-
 ## Tech Stack
 
 #### Languages
