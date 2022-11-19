@@ -5,7 +5,8 @@
     <a href="mailto:marouene.saidi@esprit.tn" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-c12314?logo=gmail&logoColor=red" style="vertical-align:center" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+a+DataScientist,+Machine+Learning+and+a+Computer+Engineer;)](https://git.io/typing-svg)
+
+(https://git.io/typing-svg)
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
 - 🌱 I’m currently learning **Reinforcement learning and MARL**.
