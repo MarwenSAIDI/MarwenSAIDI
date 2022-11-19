@@ -7,8 +7,6 @@
 I'm a third year engineering student at ESPRIT and a passionate data scientist who loves codeing and problem solving. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 
 
-- 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
-
 - 🌱 I’m currently learning **Advanced deep learning, Reinforcement Learning and MLOps**.
 
 - 💻 All of my projects are available at [my github repo](https://github.com/MarwenSAIDI?tab=repositories).
