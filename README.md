@@ -24,17 +24,6 @@ I'm a third year engineering student at ESPRIT and a passionate data scientist w
 - More into applied stuff? I made a course trying out [different ML models on financial data like stocks and crypto](https://dramsch.net/course3). 
 - And since we do eventually all want to get a job, I made a small course about [crafting a top-tier CV or Resumé for data science jobs](https://dramsch.net/course4).
 
-## Collaboration
-
-I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/books), and [speaking](https://dramsch.net/speaker). Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
-
-- 💬 Ask me about **python, machine learning, and data science.**
-- 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://dramsch.net/projects).
-- 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/talks).
-- 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
-
----
-
 ## Tech Stack
 
 #### Languages
