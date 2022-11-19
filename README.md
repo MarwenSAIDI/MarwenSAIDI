@@ -39,12 +39,17 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JAVA](https://img.shields.io/badge/-JAVA-000?style=for-the-badge&logo=java)
+![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Shell Script](https://img.shields.io/badge/-shell_script-000?style=for-the-badge&logo=gnu-bash) 
 ![Markdown](https://img.shields.io/badge/-markdown-000?style=for-the-badge&logo=markdown) 
 ![LaTeX](https://img.shields.io/badge/-latex-000?style=for-the-badge&logo=latex) 
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c++)
+![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-000?style=for-the-badge&logo=springboot)
 
 #### Machine Learning Stack
 ![NumPy](https://img.shields.io/badge/-numpy-000?style=for-the-badge&logo=numpy) 
