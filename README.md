@@ -4,10 +4,10 @@
     <a href="mailto:marouene.saidi@esprit.tn" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-c12314?logo=gmail&logoColor=red" style="vertical-align:center" /></a>
 </p>
 
-I'm a third year engineering student at ESPRIT and a passionate data scientist who loves codeing and problem solving. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
+I'm a passionate data scientist who loves codeing and problem solving. Currently I work as an AI Engineer.I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 
 
-- 🌱 I’m currently learning **Advanced deep learning, Reinforcement Learning and MLOps**.
+- 🌱 I’m currently learning **Graph deep learning, Reinforcement Learning, Federated learning, and MLOps**.
 
 - 💻 All of my projects are available at [my github repo](https://github.com/MarwenSAIDI?tab=repositories).
 
