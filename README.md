@@ -49,6 +49,11 @@ I'm a passionate data scientist who loves codeing and problem solving. Currently
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
 
+## Github stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarwenSAIDI&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+</div>
+
 
 
 
